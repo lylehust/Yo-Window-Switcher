@@ -1,5 +1,7 @@
 # Yo Window Switcher
 
+![App Screenshot](YoWindowSwitcher.png)
+
 一款 macOS 键盘驱动的窗口切换器。按下快捷键即可弹出悬浮磨砂玻璃面板，显示所有打开的窗口并配有 Vimium 风格提示键——按下对应提示键即可瞬间切换到目标窗口。
 
 ## 工作原理
