@@ -1,5 +1,7 @@
 # Yo Window Switcher
 
+![App Screenshot](YoWindowSwitcher.png)
+
 A keyboard-driven window switcher for macOS. Press a hotkey to bring up a floating frosted-glass panel showing all open windows with Vimium-style hint labels — press the hint key to switch to that window instantly.
 
 ## How It Works
