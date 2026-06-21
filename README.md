@@ -17,7 +17,6 @@ A keyboard-driven window switcher for macOS. Press a hotkey to bring up a floati
 - **Per-window switching** — each on-screen window gets its own entry
 - **Dynamic column layout** — 2 to 6 columns, automatically chosen to maximize thumbnail size while filling the panel
 - **Floating frosted-glass panel** — centered, 80% width, 90% height
-- **Floating frosted-glass panel** — centered, 80% width
 - **Vimium-style hints** — home row keys first for fastest reach
 - **Customizable hotkey** — record any key combination in Preferences
 - **Launch at Login** — toggle in the menu bar
