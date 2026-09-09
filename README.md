@@ -51,6 +51,8 @@ A keyboard-driven window switcher for macOS. Press a hotkey to bring up a floati
 
 ## Version History
 
+**0.7** — Semi-transparent panel background, minor cleanup  
+**0.6** — Launch at Login fix for older macOS (LaunchAgent fallback)  
 **0.5** — Dynamic 2-6 column layout, fixed 90% panel height, larger hint badges  
 **0.2** — per-window switching, 4-column auto-sizing grid  
 **0.1** — Initial release
