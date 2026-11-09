@@ -18,6 +18,7 @@ A keyboard-driven window switcher for macOS. Press a hotkey to bring up a floati
 - **Dynamic column layout** — 2 to 6 columns, automatically chosen to maximize thumbnail size while filling the panel
 - **Floating frosted-glass panel** — semi-transparent, centered, 80% width, 90% height
 - **Vimium-style hints** — home row keys first for fastest reach
+- **Customizable hints** — font, size, color, badge size/color, and position (center or any corner)
 - **Customizable hotkey** — record any key combination in Preferences
 - **Launch at Login** — toggle in the menu bar
 - **Conflict detection** — warns if shortcut conflicts with system shortcuts
@@ -51,6 +52,7 @@ A keyboard-driven window switcher for macOS. Press a hotkey to bring up a floati
 
 ## Version History
 
+**0.9** — Customizable hint appearance: font, size, text color, badge size/color, and position (center or corners)  
 **0.8** — Layout fits many windows, CGWindowID window matching, safer hotkey recording, clearer logging, accessibility reporting  
 **0.7** — Semi-transparent panel background, minor cleanup  
 **0.6** — Launch at Login fix for older macOS (LaunchAgent fallback)  
